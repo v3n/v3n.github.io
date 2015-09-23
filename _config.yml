@@ -7,7 +7,7 @@ title: Hovverd
 email: j@hovverd.com
 description: > # this means to ignore newlines until "baseurl:"
   Interesting things found or created by @v3n.
-url: http://localhost:4000 # http://v3n.github.io # the base hostname & protocol for your site
+url: http://v3n.github.io # http://v3n.github.io # the base hostname & protocol for your site
 
 #
 ###################################
